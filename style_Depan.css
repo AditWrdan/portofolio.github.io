@@ -1,0 +1,16 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #aad9f4;
+}
+#projek{
+    background-color: #aad9f4;
+}
+section{
+    padding-top: 6rem;
+}
+.sosial a{
+    color: #fff;
+    width: 70px; 
+    font-size: 20px;
+    text-decoration: none;
+}
